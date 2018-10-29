@@ -11,6 +11,7 @@ results = register.get_records.map{|r|
    response = HTTParty.get(ssl_checker_url)
    result = { hostname: hostname, response: JSON.parse(response.body) }
    puts(result)
+   sleep(1)
    result
 }
 File.open("results.yml", "w") { |file| file.write(YAML.dump(results)) }
