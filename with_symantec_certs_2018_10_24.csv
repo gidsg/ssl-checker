@@ -1,80 +1,80 @@
-hostname,mainIssuer
-www.LittleHarrowdenParishCouncil.gov.uk,RapidSSL SHA256 CA
-www.abbottsann-pc.gov.uk,RapidSSL SHA256 CA
-www.abinger-pc.gov.uk,RapidSSL SHA256 CA
-www.allhallowskent-pc.gov.uk,RapidSSL SHA256 CA
-www.axbridge-tc.gov.uk,GeoTrust DV SSL CA - G3
-www.battletowncouncil.gov.uk,RapidSSL SHA256 CA
-www.beaminster-tc.gov.uk,RapidSSL SHA256 CA
-www.betchworth-pc.gov.uk,GeoTrust DV SSL SHA256 CA
-www.birlingparishcouncil.gov.uk,RapidSSL SHA256 CA
-www.bozeatparishcouncil.gov.uk,GeoTrust DV SSL CA - G3
-www.broads-authority.gov.uk,thawte SSL CA - G2
-www.burwellparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA
-www.childcarechoices.gov.uk,RapidSSL SHA256 CA
-www.childrenscommissioner.gov.uk,thawte SSL CA - G2
-www.churchpreen-hughley-kenley-pc.gov.uk,RapidSSL SHA256 CA - G2
-www.cliffeandcliffewoods-pc.gov.uk,RapidSSL SHA256 CA
-www.crb.gov.uk,GeoTrust SSL CA - G3
-www.dartmoor-npa.gov.uk,thawte SSL CA - G2
-www.dartmoor.gov.uk,thawte SSL CA - G2
-www.dasscotland.gov.uk,thawte SSL CA - G2
-www.ddfire.gov.uk,GeoTrust DV SSL CA - G3
-www.devonjobs.gov.uk,GeoTrust SSL CA - G3
-www.dittonparishcouncil.gov.uk,RapidSSL SHA256 CA
-www.doddinghurst-pc.gov.uk,GeoTrust DV SSL CA - G3
-www.downdc.gov.uk,GeoTrust SSL CA - G3
-www.e-chorley.gov.uk,thawte SSL CA - G2
-www.earlsbarton.gov.uk,RapidSSL SHA256 CA
-www.eastrenfrewshire.gov.uk,Symantec Class 3 Secure Server CA - G4
-www.ecclesfield-pc.gov.uk,GeoTrust DV SSL SHA256 CA
-www.ellesmererural-pc.gov.uk,RapidSSL SHA256 CA
-www.equalities.gov.uk,RapidSSL SHA256 CA - G3
-www.eryri-npa.gov.uk,thawte SSL CA - G2
-www.exmoor-nationalpark.gov.uk,thawte SSL CA - G2
-www.exmoor-npa.gov.uk,thawte SSL CA - G2
-www.exning-pc.gov.uk,GeoTrust DV SSL SHA256 CA
-www.finedonparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA
-www.gmita.gov.uk,RapidSSL SHA256 CA - G3
-www.greenham.gov.uk,GeoTrust DV SSL SHA256 CA
-www.hambleparishcouncil.gov.uk,RapidSSL SHA256 CA
-www.harborough.gov.uk,thawte SSL CA - G2
-www.hathersageparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA
-www.highhalstow-pc.gov.uk,RapidSSL SHA256 CA
-www.hoosaintwerburgh-pc.gov.uk,RapidSSL SHA256 CA
-www.horsmonden-pc.gov.uk,RapidSSL SHA256 CA
-www.kendaltowncouncil.gov.uk,GeoTrust DV SSL SHA256 CA
-www.lakedistrict.gov.uk,thawte SSL CA - G2
-www.littlehoughtonparishcouncilnorthants.gov.uk,Thawte DV SSL CA
-www.livingwage.gov.uk,RapidSSL SHA256 CA
-www.luddesdown-pc.gov.uk,RapidSSL SHA256 CA
-www.lymeregistowncouncil.gov.uk,RapidSSL SHA256 CA
-www.manea-pc.gov.uk,GeoTrust DV SSL CA - G3
-www.mardenkent-pc.gov.uk,RapidSSL SHA256 CA
-www.marshgibbon-pc.gov.uk,RapidSSL SHA256 CA
-www.mersey-pha.gov.uk,RapidSSL CA
-www.nationalparks.gov.uk,thawte SSL CA - G2
-www.penworthamtowncouncil.gov.uk,GeoTrust DV SSL SHA256 CA
-www.pesticides.gov.uk,GeoTrust DV SSL CA - G3
-www.petworth-tc.gov.uk,RapidSSL SHA256 CA
-www.queenthorneparishcouncil.gov.uk,RapidSSL SHA256 CA
-www.resilience.gov.uk,thawte DV SSL SHA256 CA
-www.rimnet.gov.uk,Symantec Class 3 Secure Server CA - G4
-www.s-norfolk.gov.uk,GeoTrust SSL CA - G3
-www.scotlandsfinancialhealthservice.gov.uk,thawte EV SSL CA - G3
-www.snowdonia-npa.gov.uk,thawte SSL CA - G2
-www.south-norfolk.gov.uk,GeoTrust SSL CA - G3
-www.southwark.gov.uk,Symantec Class 3 Secure Server CA - G4
-www.sps.gov.uk,Symantec Class 3 Secure Server CA - G4
-www.stalbans.gov.uk,GeoTrust EV SSL CA - G4
-www.stansted-pc.gov.uk,RapidSSL SHA256 CA
-www.stmarybourne-pc.gov.uk,RapidSSL SHA256 CA
-www.stockton-warks-pc.gov.uk,RapidSSL SHA256 CA
-www.suttonbengerparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA
-www.swaffhamtowncouncil.gov.uk,RapidSSL SHA256 CA
-www.transportoffice.gov.uk,Symantec Class 3 Secure Server CA - G4
-www.transportscotland.gov.uk,GeoTrust SSL CA - G3
-www.wales.gov.uk,Symantec Class 3 Secure Server CA - G4
-www.windleshampc.gov.uk,RapidSSL CA
-www.witney-tc.gov.uk,GeoTrust DV SSL SHA256 CA
-www.wsm-tc.gov.uk,RapidSSL SHA256 CA
+hostname,main issuer,is redirect?
+www.LittleHarrowdenParishCouncil.gov.uk,RapidSSL SHA256 CA,false
+www.abbottsann-pc.gov.uk,RapidSSL SHA256 CA,false
+www.abinger-pc.gov.uk,RapidSSL SHA256 CA,false
+www.allhallowskent-pc.gov.uk,RapidSSL SHA256 CA,false
+www.axbridge-tc.gov.uk,GeoTrust DV SSL CA - G3,false
+www.battletowncouncil.gov.uk,RapidSSL SHA256 CA,false
+www.beaminster-tc.gov.uk,RapidSSL SHA256 CA,false
+www.betchworth-pc.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.birlingparishcouncil.gov.uk,RapidSSL SHA256 CA,false
+www.bozeatparishcouncil.gov.uk,GeoTrust DV SSL CA - G3,false
+www.broads-authority.gov.uk,thawte SSL CA - G2,false
+www.burwellparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.childcarechoices.gov.uk,RapidSSL SHA256 CA,false
+www.childrenscommissioner.gov.uk,thawte SSL CA - G2,false
+www.churchpreen-hughley-kenley-pc.gov.uk,RapidSSL SHA256 CA - G2,false
+www.cliffeandcliffewoods-pc.gov.uk,RapidSSL SHA256 CA,false
+www.crb.gov.uk,GeoTrust SSL CA - G3,false
+www.dartmoor-npa.gov.uk,thawte SSL CA - G2,false
+www.dartmoor.gov.uk,thawte SSL CA - G2,false
+www.dasscotland.gov.uk,thawte SSL CA - G2,true
+www.ddfire.gov.uk,GeoTrust DV SSL CA - G3,false
+www.devonjobs.gov.uk,GeoTrust SSL CA - G3,false
+www.dittonparishcouncil.gov.uk,RapidSSL SHA256 CA,false
+www.doddinghurst-pc.gov.uk,GeoTrust DV SSL CA - G3,false
+www.downdc.gov.uk,GeoTrust SSL CA - G3,false
+www.e-chorley.gov.uk,thawte SSL CA - G2,false
+www.earlsbarton.gov.uk,RapidSSL SHA256 CA,false
+www.eastrenfrewshire.gov.uk,Symantec Class 3 Secure Server CA - G4,false
+www.ecclesfield-pc.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.ellesmererural-pc.gov.uk,RapidSSL SHA256 CA,false
+www.equalities.gov.uk,RapidSSL SHA256 CA - G3,false
+www.eryri-npa.gov.uk,thawte SSL CA - G2,false
+www.exmoor-nationalpark.gov.uk,thawte SSL CA - G2,false
+www.exmoor-npa.gov.uk,thawte SSL CA - G2,true
+www.exning-pc.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.finedonparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.gmita.gov.uk,RapidSSL SHA256 CA - G3,false
+www.greenham.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.hambleparishcouncil.gov.uk,RapidSSL SHA256 CA,false
+www.harborough.gov.uk,thawte SSL CA - G2,false
+www.hathersageparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.highhalstow-pc.gov.uk,RapidSSL SHA256 CA,false
+www.hoosaintwerburgh-pc.gov.uk,RapidSSL SHA256 CA,false
+www.horsmonden-pc.gov.uk,RapidSSL SHA256 CA,false
+www.kendaltowncouncil.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.lakedistrict.gov.uk,thawte SSL CA - G2,false
+www.littlehoughtonparishcouncilnorthants.gov.uk,Thawte DV SSL CA,false
+www.livingwage.gov.uk,RapidSSL SHA256 CA,true
+www.luddesdown-pc.gov.uk,RapidSSL SHA256 CA,false
+www.lymeregistowncouncil.gov.uk,RapidSSL SHA256 CA,false
+www.manea-pc.gov.uk,GeoTrust DV SSL CA - G3,false
+www.mardenkent-pc.gov.uk,RapidSSL SHA256 CA,false
+www.marshgibbon-pc.gov.uk,RapidSSL SHA256 CA,false
+www.mersey-pha.gov.uk,RapidSSL CA,false
+www.nationalparks.gov.uk,thawte SSL CA - G2,false
+www.penworthamtowncouncil.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.pesticides.gov.uk,GeoTrust DV SSL CA - G3,true
+www.petworth-tc.gov.uk,RapidSSL SHA256 CA,false
+www.queenthorneparishcouncil.gov.uk,RapidSSL SHA256 CA,false
+www.resilience.gov.uk,thawte DV SSL SHA256 CA,false
+www.rimnet.gov.uk,Symantec Class 3 Secure Server CA - G4,false
+www.s-norfolk.gov.uk,GeoTrust SSL CA - G3,true
+www.scotlandsfinancialhealthservice.gov.uk,thawte EV SSL CA - G3,false
+www.snowdonia-npa.gov.uk,thawte SSL CA - G2,false
+www.south-norfolk.gov.uk,GeoTrust SSL CA - G3,false
+www.southwark.gov.uk,Symantec Class 3 Secure Server CA - G4,false
+www.sps.gov.uk,Symantec Class 3 Secure Server CA - G4,false
+www.stalbans.gov.uk,GeoTrust EV SSL CA - G4,false
+www.stansted-pc.gov.uk,RapidSSL SHA256 CA,false
+www.stmarybourne-pc.gov.uk,RapidSSL SHA256 CA,false
+www.stockton-warks-pc.gov.uk,RapidSSL SHA256 CA,false
+www.suttonbengerparishcouncil.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.swaffhamtowncouncil.gov.uk,RapidSSL SHA256 CA,false
+www.transportoffice.gov.uk,Symantec Class 3 Secure Server CA - G4,true
+www.transportscotland.gov.uk,GeoTrust SSL CA - G3,true
+www.wales.gov.uk,Symantec Class 3 Secure Server CA - G4,true
+www.windleshampc.gov.uk,RapidSSL CA,false
+www.witney-tc.gov.uk,GeoTrust DV SSL SHA256 CA,false
+www.wsm-tc.gov.uk,RapidSSL SHA256 CA,true
